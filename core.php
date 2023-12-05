@@ -3,7 +3,7 @@
 Plugin Name:  CSS JS & File Uploader
 Plugin URI: http://wordpress.org/plugins/hello-dolly/
 Description: css js file uploader
-Author: وحید صالحی
+Author: مصطفی نیاکان
 Version: 1.0.0
 License: GPLv2 or later
 Author URI: http://develop-wp.local
